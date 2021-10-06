@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sean, aka @SeanP2001
 - 🐉 I'm from Wales
-- 📚 I'm studying MEng Computer Systems Engineering
+- 🎓 I'm studying MEng Computer Systems Engineering
 - 👀 I’m interested in embedded systems
 - 🌱 I’m currently learning C++ and Python
 
