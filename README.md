@@ -8,7 +8,7 @@
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="http://assets.stickpng.com/images/5847f989cef1014c0b5e48bf.png" height="40">
+<img src="https://1v5ymx3zt3y73fq5gy23rtnc-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/gitkraken-logo-light-sq.png" height="45">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="40">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="40">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40">
