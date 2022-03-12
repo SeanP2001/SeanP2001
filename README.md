@@ -12,6 +12,8 @@
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="40">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="40">
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40">
+<img src="/Eagle.png" height="40">
+<img src="/Fusion360.png" height="40">
 </p>
 
 
