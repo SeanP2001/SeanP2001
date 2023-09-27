@@ -48,7 +48,7 @@ My embedded systems projects tend to follow these steps:
 
 <div align="center">
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanP2001&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanP2001&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanP2001&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanP2001&theme=dark&layout=compact&hide=nesc,shell,prolog)](https://github.com/anuraghazra/github-readme-stats)
 ---|---
 
 </div>
