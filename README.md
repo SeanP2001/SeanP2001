@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C++ and Python
 
 ## :zap: My Projects
-I enjoy building electronics projects using microcontrollers. Most of my public repositories are personal projects which I do for fun. I also document some of my university projects here.
+I enjoy building electronics projects using microcontrollers. Most of my public repositories are personal projects, which I do for fun. I also document some of my university projects here.
 
 ## :technologist: My Workflow
 
@@ -23,8 +23,6 @@ My embedded systems projects tend to follow these steps:
 ## 🧰 Languages and Tools:
 
 <p align="center">
-<img src="./FedoraLogo.png" alt="Fedora" height="40">
-<img src="./LinuxMintLogo.png" alt="Linux Mint" height="40">
 <img src="./DebianLogo.png" alt="Debian" height="40">
 <img src="./RaspberryPiLogo.png" alt="Raspberry Pi" height="40">
 <img src="./EspressifLogo.png" alt="Espressif ESP32" height="40">
@@ -32,13 +30,10 @@ My embedded systems projects tend to follow these steps:
 <img src="./NodeREDLogo.png" alt="NodeRED" height="40">
 <img src="./ArduinoLogo.png" alt="Arduino" height="40">
 <img src="./VSCodeLogo.png" alt="VSCode" height="40">
-<img src="./MarkTextLogo.png" alt="MarkText" height="40">
-<img src="./GitKrakenLogo.png" alt="GitKraken" height="40">
 <img src="./CLogo.png" alt="C" height="40">
 <img src="./CppLogo.png" alt="C++" height="40">
 <img src="./PythonLogo.png" alt="Python" height="40">
 <img src="./KiCADLogo.png" alt="KiCAD" height="40">
-<img src="./Eagle.png" alt="Eagle" height="40">
 <img src="./Fusion360.png" alt="Fusion360" height="40">
 <img src="./CuraLogo.png" alt="Cura" height="40">
 </p>
@@ -48,7 +43,7 @@ My embedded systems projects tend to follow these steps:
 
 <div align="center">
 
-[![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanP2001&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeanP2001&theme=dark&layout=compact&hide=nesc,shell,prolog)](https://github.com/anuraghazra/github-readme-stats)
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=SeanP2001&show_icons=true&theme=dark&count_private=true" alt="Sean's GitHub Stats" /> | <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanP2001&theme=dark&layout=compact&hide=nesc,shell,prolog" alt="Sean's Language Stats" />
 ---|---
 
 </div>
@@ -69,8 +64,7 @@ My embedded systems projects tend to follow these steps:
 ## :memo: What I am Working On
 
 - An application to convert PCB design files into CNC toolpaths (made with C++ & QT).
-- A V3 of my Sunrise Alarm project with the aim of making a more premium feeling device.
-- A to do list manager written in C#.
+- A V3 of my Sunrise Alarm project with the aim of making a more premium-feeling device.
 
 
 <!---
