@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sean, aka @SeanP2001
 - 🐉 I'm from Wales
 - 🎓 I have a BEng in Computer Systems Engineering
-- 🎓 I'm studying MSc Advanced Computer Science
+- 🎓 I have an MSc in Advanced Computer Science
 - 👀 I’m interested in embedded systems, IoT and machine learning
 - 🌱 I’m currently learning C++ and Python
 
