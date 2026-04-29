@@ -8,19 +8,19 @@
 ## 🧰 Languages and Tools:
 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> 
+  <img src="cpp.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="python.svg" alt="python" width="40" height="40"/> 
   
-  <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> 
+  <img src="arduino.svg" alt="arduino" width="40" height="40"/> 
   
-  <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> 
+  <img src="django.svg" alt="django" width="40" height="40"/> 
+  <img src="html.svg" alt="html5" width="40" height="40"/>
+  <img src="bootstrap.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="aws.svg" alt="aws" width="40" height="40"/> 
 
-  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> 
+  <img src="vscode.svg" alt="vscode" width="40" height="40"/> 
+  <img src="git.svg" alt="git" width="40" height="40"/> 
+  <img src="linux.svg" alt="linux" width="40" height="40"/> 
 </p>
 
 
