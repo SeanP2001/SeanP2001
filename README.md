@@ -8,19 +8,26 @@
 ## 🧰 Languages and Tools:
 
 <p align="center"> 
-  <img src="cpp.svg" width="40" height="40"/> 
-  <img src="python.svg" width="40" height="40"/> 
-  
-  <img src="arduino.svg" width="40" height="40"/> 
-  
-  <img src="django.svg" width="40" height="40"/> 
-  <img src="html.svg" width="40" height="40"/>
-  <img src="bootstrap.svg" width="40" height="40"/> 
-  <img src="aws.svg" width="40" height="40"/> 
+  <img src="cpp.svg" width="40" height="40" alt="C++" title="C++"/> 
+  <img src="python.svg" width="40" height="40" alt="Python" title="Python"/> 
+  <img src="javascript.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
 
-  <img src="vscode.svg" width="40" height="40"/> 
-  <img src="git.svg" width="40" height="40"/> 
-  <img src="linux.svg" width="40" height="40"/> 
+  <img src="sklearn.svg" width="40" height="40" alt="Scikit-Learn" title="Scikit-Learn"/>
+
+  <img src="django.svg" width="40" height="40" alt="Django" title="Django"/> 
+  <img src="fastapi.svg" width="40" height="40" alt="FastAPI" title="FastAPI"/>
+
+  <img src="html.svg" width="40" height="40" alt="HTML" title="HTML"/>
+  <img src="bootstrap.svg" width="40" height="40" alt="Bootstrap" title="Bootstrap"/> 
+
+  <img src="arduino.svg" width="40" height="40" alt="Arduino" title="Arduino"/> 
+
+  <img src="docker.svg" width="40" height="40" alt="Docker" title="Docker"/> 
+  <img src="aws.svg" width="40" height="40" alt="AWS" title="AWS"/> 
+
+  <img src="git.svg" width="40" height="40" alt="Git" title="Git"/> 
+  <img src="linux.svg" width="40" height="40" alt="Linux" title="Linux"/> 
+  <img src="vscode.svg" width="40" height="40" alt="VSCode" title="VSCode"/> 
 </p>
 
 
